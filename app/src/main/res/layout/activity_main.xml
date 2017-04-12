@@ -112,7 +112,7 @@
         android:paddingRight="50dp"
         android:id="@+id/sign_up_btn"
         android:background="@drawable/btn_bg"
-        android:text="SING UP"
+        android:text="SIGN UP"
         android:textColor="@android:color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
